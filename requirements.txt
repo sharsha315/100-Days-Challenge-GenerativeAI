@@ -1,0 +1,11 @@
+python-dotenv
+transformers
+torch
+accelerate>=0.26.0
+mistralai
+google-genai
+anthropic
+anthropic[bedrock]
+boto3
+cohere
+groq
