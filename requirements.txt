@@ -9,3 +9,6 @@ anthropic[bedrock]
 boto3
 cohere
 groq
+pydub
+streamlit-audiorec
+git+https://github.com/openai/whisper.git
