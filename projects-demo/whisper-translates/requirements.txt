@@ -1,0 +1,4 @@
+streamlit
+st_audiorec
+openai-whisper
+pydub
